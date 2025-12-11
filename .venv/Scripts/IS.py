@@ -86,7 +86,7 @@ def build_graph(maze):
                 neighbors = []
 
                 # Check all 4 directions
-                directions = [(1,0), (0,-1), (0,1), (-1,0)]  # Up, Right, Down, Left
+                directions = [(1,0), (0,-1), (0,1), (-1,0)]  #  Down, Left,Right, Up,
 
                 for dr, dc in directions:
                     new_row, new_col = row + dr, col + dc
