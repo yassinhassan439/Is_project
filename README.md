@@ -4,11 +4,11 @@ A Python implementation of the Depth-First Search (DFS) algorithm applied to maz
 
 ## Features
 
-- 🧩 **Custom Maze Input** - Works with any maze configuration
-- 🔍 **DFS Algorithm** - Implements depth-first search with backtracking
-- 📊 **Graph Visualization** - Shows the maze as a graph with nodes and edges
-- 🗺️ **Solution Path** - Displays the optimal path from start to end
-- 👣 **Exploration Tracking** - Shows all visited cells vs. final solution path
+- **Custom Maze Input** - Works with any maze configuration
+- **DFS Algorithm** - Implements depth-first search with backtracking
+- **Graph Visualization** - Shows the maze as a graph with nodes and edges
+- **Solution Path** - Displays the optimal path from start to end
+- **Exploration Tracking** - Shows all visited cells vs. final solution path
 
 ## How It Works
 
